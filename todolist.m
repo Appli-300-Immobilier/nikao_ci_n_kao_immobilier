@@ -6,7 +6,7 @@ N?kao Immobilier Website
 N?kao Immobilier
 - **Directory:** nikao_ci_n_kao_immobilier
 - **Address/Contact:** 
-  - SOCI�T� IMMOBILI�RE ?????
+  - SOCIéTé IMMOBILIéRE ?????
   - ?ACHAT
   - ?LOCATION /VENTE ????
   - ?? +225 0757775638
